@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JBurke8
 - 👀 I’m interested in IT
-- 🌱 I’m currently learning Bsc Computing
+- 🌱 Currently AWS full-stack dev
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me johnbuurke1@gmail.com
 
